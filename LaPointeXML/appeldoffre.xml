@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="ISO-8859"?>
+<?xml-stylesheet type="text/css" href="new.css"?>
+<appelsdoffres>
+    <appeldoffre>
+        <date>
+            24/01/12
+        </date>
+        <type>
+            Marché public
+        </type>
+        <etat>
+            Emporté
+        </etat>
+        <cahiercharge>
+            <date>
+                02/02/12
+            </date>
+            <nomresponsable>
+                LEPITRE Alphonse
+            </nomresponsable>
+            <montant>
+                35 000€
+            </montant>
+        </cahiercharge>
+        <client>
+            <raisonsociale>
+                MRSInfo
+            </raisonsociale>
+            <nom>
+                DUVAL
+            </nom>
+        </client>
+    </appeldoffre>
+
+    <appeldoffre>
+        <date>
+            21/02/12
+        </date>
+        <type>
+            Marché public
+        </type>
+        <etat>
+            En cours
+        </etat>
+        <cahiercharge>
+            <date>
+                04/03/12
+            </date>
+            <nomresponsable>
+                M GRIMAUD
+            </nomresponsable>
+            <montant>
+                120 000€
+            </montant>
+        </cahiercharge>
+        <client>
+            <raisonsociale>
+                Région PACA
+            </raisonsociale>
+            <nom>
+                M DEMETZ
+            </nom>
+        </client>
+    </appeldoffre>
+
+    <appeldoffre>
+        <date>
+            25/05/2012
+        </date>
+        <type>
+            Marché public
+        </type>
+        <etat>
+            Emporté
+        </etat>
+        <cahiercharge>
+            <date>
+                04/03/12
+            </date>
+            <nomresponsable>
+                M GRIMAUD
+            </nomresponsable>
+            <montant>
+            50 000€
+            </montant>
+        </cahiercharge>
+        <client>
+            <raisonsociale>
+                Région PACA
+            </raisonsociale>
+            <nom>
+                M DEMETZ
+            </nom>
+        </client>
+    </appeldoffre>
+</appelsdoffres>

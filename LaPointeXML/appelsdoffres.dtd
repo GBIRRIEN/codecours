@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE appelsdoffres
+[<!ELEMENT appelsdoffres (appeldoffre *)>
+<!ELEMENT appeldoffre(date, type, etat, cahiercharge, client)>
+<!ELEMENT date(#PCDATA)>
+<!ELEMENT type(#PCDATA)>
+<!ELEMENT etat(#PCDATA)>
+<!ELEMENT cahiercharge(date, nomresponsable, montant)>
+<!ELEMENT date(#PCDATA)>
+<!ELEMENT nomresponsable(#PCDATA)>
+<!ELEMENT montant(#PCDATA)>
+<!ELEMENT client(raisonsociale, nom)>
+<!ELEMENT raisonsociale(#PCDATA)>
+<!ELEMENT nom(#PCDATA)>
+]>

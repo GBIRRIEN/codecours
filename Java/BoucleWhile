@@ -1,0 +1,8 @@
+public class BoucleWhile {
+    public static void main(String[] args) {
+        while (i >= 10) {
+            System.out.println("Je sais compter jusqu'à " + i)
+            i++
+        }
+    }
+}

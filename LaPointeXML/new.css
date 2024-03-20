@@ -1,0 +1,18 @@
+appeldoffre {
+    background-color: rgb(255, 167, 95);
+    font-size: 25px;
+    display: block;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 10px;
+}
+
+client {
+    display: block;
+    font-weight: bold;
+}
+
+cahiercharge {
+    display: block;
+    font-style: italic;
+}
